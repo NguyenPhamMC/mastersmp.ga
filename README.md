@@ -1,0 +1,2 @@
+# mastersmp.ga
+Server SMP
